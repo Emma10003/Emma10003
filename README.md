@@ -44,8 +44,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-<br>
-<a href="https://github.com/Emma10003"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emma10003&layout=compact&theme=nord&hide_border=true" /></a>
 </div>
 
 
