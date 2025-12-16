@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=150&width=100%&section=header&text=Yusung's%20GitHub&fontSize=42" />
   <br>
-  <h1>🎈 Welcome to Yusung's Github!🎈</h1>
 <h1> 🛠️ Tech Stacks </h1>
 <h2> Front-end </h2>
   
