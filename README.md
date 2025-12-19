@@ -141,19 +141,14 @@
 
 <h2>✉️ Contact Me</h2>
 
-<ul>
-  <li>
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" />
-    &nbsp;
-    <a href="mailto:5yusung7879@gmail.com">
-      5yusung7879@gmail.com
-    </a>
-  </li>
-  <li>
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" />
-      &nbsp;
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID">
-      LinkedIn Profile
-    </a>
-  </li>
-</ul>
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" align="absmiddle" />
+  &nbsp;
+  <a href="mailto:5yusung7879@gmail.com">5yusung7879@gmail.com</a>
+</p>
+
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" align="absmiddle" />
+  &nbsp;
+  <a href="www.linkedin.com/in/onu-oh-yusung-0b5b69355">LinkedIn Profile</a>
+</p>
