@@ -1,10 +1,13 @@
 
 <!-- <div align="center"> -->
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=150&width=100%&section=header&text=Yusung's%20GitHub&fontSize=42" />
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=150&width=100%25&section=header&text=Yusung%20Oh&fontSize=42&desc=Web%20Developer&descSize=22&descAlignY=85" />
+
+  </div>
   <br>
-<h1> 📍 Profile </h1>
-<h3>명지대학교 (Myongji University)</h3>
+<h2> 📍 Profile </h2>
+<h4>명지대학교 (Myongji University)</h4>
 <table>
   
   <ul>
@@ -15,8 +18,8 @@
   </ul>
 </table>
 
-<h1> 🛠️ Tech Stacks </h1>
-<h3> Front-end </h3>
+<h2> 🛠️ Tech Stacks </h2>
+<h4> Front-end </h4>
   
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,7 +27,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<h3> Back-end </h3>
+<h4> Back-end </h4>
 
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white)
@@ -33,19 +36,19 @@
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
-<h3> Database </h3>
+<h4> Database </h4>
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h3> DevOps & Cloud </h3>
+<h4> DevOps & Cloud </h4>
 
 ![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
-<h3> Tools </h3>
+<h4> Tools </h4>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -58,12 +61,88 @@
 
 </div>
 
-<h1>💻 Projects</h1>
+<h2>💻 Projects</h2>
+<table>
+  <thead>
+    <tr>
+      <th>프로젝트</th>
+      <th>주제</th>
+      <th>성격</th>
+      <th>역할</th>
+      <th>링크</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>GASNOW</td>
+      <td>오피넷 API를 활용하여 지도 상에서 현 위치를 기준으로 인근 주유소를 보여주고, 유가 관련 인사이트를 제공하는 웹사이트</td>
+      <td>팀 프로젝트</td>
+      <td>풀스택<br>Full-stack</td>
+      <td>
+        <a href="https://github.com/svv0003/GasNOW">Github</a><br />
+        <a href="https://gasnow.store/">Website</a>
+      </td>
+    </tr>
+    <tr>
+      <td>BloomBee</td>
+      <td>양봉업자를 위한 AI 기반 개화 예측 및 꿀 수확량 관리 서비스</td>
+      <td>NASA 해커톤</td>
+      <td>프론트엔드<br>Front-end</td>
+      <td>
+        <a href="https://github.com/CodeBBakGoSu/Leafline--Space-Apps-Challenge">Github</a><br />
+        <a href="https://www.bloombee.garden/">Website</a>
+      </td>
+    </tr>
+    <tr>
+      <td>instagram-clone</td>
+      <td>인스타그램 웹사이트를 클론해서 만든 프로젝트</td>
+      <td>개인 프로젝트</td>
+      <td>풀스택<br>Full-stack</td>
+      <td>
+        <a href="https://github.com/Emma10003/instagram-clone">Github</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Embrain-clone</td>
+      <td>국내 리서치 기업 엠브레인(Embrain)의 공식 웹사이트를 클론한 프로젝트</td>
+      <td>개인 프로젝트</td>
+      <td>프론트엔드<br>Front-end</td>
+      <td>
+        <a href="https://github.com/Emma10003/research-platform-website">Github</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<h1>🏆 Awards</h1>
+
+<h2>🏆 Awards</h2>
+<table>
+  <thead>
+    <tr>
+      <th>대회/주관</th>
+      <th>프로젝트/주제</th>
+      <th>수상</th>
+      <th>일자</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>NASA Space Apps Challenge</td>
+      <td>BloomBee</td>
+      <td>Social Impact Award</td>
+      <td>2025.10</td>
+    </tr>
+    <tr>
+      <td>한국디지털콘텐츠학회 하계 대학생 논문 경진대회</td>
+      <td>생성형 AI를 활용한 퍼스널 컬러에 따른<br> 색조화장품 소비가치 분석</td>
+      <td>동상</td>
+      <td>2025.08</td>
+    </tr>
+  </tbody>
+</table>
 
 
-<h1>✉️ Contact Me</h1>
+<h2>✉️ Contact Me</h2>
 <ul>
   <li><b>Email</b>: 5yusung7879@gmail.com</li>
   <li><b>LinkedIn</b>: </li>
