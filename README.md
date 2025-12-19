@@ -6,17 +6,14 @@
 
   </div>
   <br>
-<h2> 📍 Profile </h2>
+<h2> 🎓 Education </h2>
 <h4>명지대학교 (Myongji University)</h4>
-<table>
-  
-  <ul>
-  <li><b>문헌정보학과 학사 졸업</b> <br>B.A in Library and Information Science</li>
-  <li><b>응용데이터사이언스 학사 졸업</b> <br>B.S in Applied Data Science</li>
-  <li><b>데이터리터러시 마이크로디그리</b> <br>Data Literacy Microdegree</li>
-  <li><b>소프트웨어 마이크로디그리</b> <br>Software Microdegree</li>
-  </ul>
-</table>
+<ul>
+<li>문헌정보학과 학사 졸업 <br>B.A in Library and Information Science</li>
+<li>응용데이터사이언스 학사 졸업 <br>B.S in Applied Data Science</li>
+<li>데이터리터러시 마이크로디그리 <br>Data Literacy Microdegree</li>
+<li>소프트웨어 마이크로디그리 <br>Software Microdegree</li>
+</ul>
 
 <h2> 🛠️ Tech Stacks </h2>
 <h4> Front-end </h4>
@@ -75,40 +72,40 @@
   <tbody>
     <tr>
       <td>GASNOW</td>
-      <td>오피넷 API를 활용하여 지도 상에서 현 위치를 기준으로 인근 주유소를 보여주고, 유가 관련 인사이트를 제공하는 웹사이트</td>
-      <td>팀 프로젝트</td>
+      <td>오피넷 API를 활용하여 지도 상에서 현 위치를 기준으로 인근 주유소를 보여주고, <br>유가 관련 인사이트를 제공하는 웹사이트</td>
+      <td>팀 <br>프로젝트</td>
       <td>풀스택<br>Full-stack</td>
       <td>
-        <a href="https://github.com/svv0003/GasNOW">Github</a><br />
-        <a href="https://gasnow.store/">Website</a>
+        🔗 <a href="https://github.com/svv0003/GasNOW">Github</a><br />
+        🔗 <a href="https://gasnow.store/">Website</a>
       </td>
     </tr>
     <tr>
       <td>BloomBee</td>
       <td>양봉업자를 위한 AI 기반 개화 예측 및 꿀 수확량 관리 서비스</td>
-      <td>NASA 해커톤</td>
+      <td>NASA <br>해커톤</td>
       <td>프론트엔드<br>Front-end</td>
       <td>
-        <a href="https://github.com/CodeBBakGoSu/Leafline--Space-Apps-Challenge">Github</a><br />
-        <a href="https://www.bloombee.garden/">Website</a>
+        🔗 <a href="https://github.com/CodeBBakGoSu/Leafline--Space-Apps-Challenge">Github</a><br />
+        🔗 <a href="https://www.bloombee.garden/">Website</a>
       </td>
     </tr>
     <tr>
       <td>instagram-clone</td>
       <td>인스타그램 웹사이트를 클론해서 만든 프로젝트</td>
-      <td>개인 프로젝트</td>
+      <td>개인 <br>프로젝트</td>
       <td>풀스택<br>Full-stack</td>
       <td>
-        <a href="https://github.com/Emma10003/instagram-clone">Github</a>
+        🔗 <a href="https://github.com/Emma10003/instagram-clone">Github</a>
       </td>
     </tr>
     <tr>
       <td>Embrain-clone</td>
       <td>국내 리서치 기업 엠브레인(Embrain)의 공식 웹사이트를 클론한 프로젝트</td>
-      <td>개인 프로젝트</td>
+      <td>개인 <br>프로젝트</td>
       <td>프론트엔드<br>Front-end</td>
       <td>
-        <a href="https://github.com/Emma10003/research-platform-website">Github</a>
+        🔗 <a href="https://github.com/Emma10003/research-platform-website">Github</a>
       </td>
     </tr>
   </tbody>
@@ -143,7 +140,20 @@
 
 
 <h2>✉️ Contact Me</h2>
+
 <ul>
-  <li><b>Email</b>: 5yusung7879@gmail.com</li>
-  <li><b>LinkedIn</b>: </li>
+  <li>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" />
+    &nbsp;
+    <a href="mailto:5yusung7879@gmail.com">
+      5yusung7879@gmail.com
+    </a>
+  </li>
+  <li>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" />
+      &nbsp;
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID">
+      LinkedIn Profile
+    </a>
+  </li>
 </ul>
