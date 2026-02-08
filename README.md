@@ -71,13 +71,22 @@
   </thead>
   <tbody>
     <tr>
+      <td>머묾</td>
+      <td>검색 및 지도 기반 숙소 예약 어플리케이션</td>
+      <td>팀 <br>프로젝트</td>
+      <td>풀스택<br>Full-stack</td>
+      <td>
+        🔗 <a href="https://github.com/full-stack-bootcamp-final-team-project>Github</a><br />
+      </td>
+    </tr>
+    <tr>
       <td>GASNOW</td>
       <td>오피넷 API를 활용하여 지도 상에서 현 위치를 기준으로 인근 주유소를 보여주고, <br>유가 관련 인사이트를 제공하는 웹사이트</td>
       <td>팀 <br>프로젝트</td>
       <td>풀스택<br>Full-stack</td>
       <td>
-        🔗 <a href="https://github.com/svv0003/GasNOW">Github</a><br />
-        🔗 <a href="https://gasnow.store/">Website</a>
+        🔗 <a href="https://github.com/Emma10003/GasNOW">Github</a><br />
+        🔗 <a href="https://gasnow-production.up.railway.app">Website</a>
       </td>
     </tr>
     <tr>
