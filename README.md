@@ -76,7 +76,7 @@
       <td>팀 <br>프로젝트</td>
       <td>풀스택<br>Full-stack</td>
       <td>
-        🔗 <a href="https://github.com/full-stack-bootcamp-final-team-project>Github</a><br />
+        🔗 <a href="https://github.com/full-stack-bootcamp-final-team-project">Github</a>
       </td>
     </tr>
     <tr>
@@ -105,7 +105,8 @@
       <td>개인 <br>프로젝트</td>
       <td>풀스택<br>Full-stack</td>
       <td>
-        🔗 <a href="https://github.com/Emma10003/instagram-clone">Github</a>
+        🔗 <a href="https://github.com/Emma10003/instagram-clone">Github</a><br>
+        🔗 <a href="https://insta-front-orcin.vercel.app/login">Website</a>
       </td>
     </tr>
     <tr>
