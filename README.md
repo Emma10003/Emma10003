@@ -31,13 +31,11 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white)
 ![Lombok](https://img.shields.io/badge/Lombok-CA2027?style=for-the-badge&logo=lombok&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge&logoColor=white)
-
 
 <h4> AI/ML </h4>
 
@@ -46,6 +44,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-111111?style=for-the-badge&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 <h4> Database </h4>
 
@@ -60,7 +59,8 @@
 ![Ubuntu](https://img.shields.io/badge/Linux%20(Ubuntu)-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![AWS Security Group](https://img.shields.io/badge/AWS%20Security%20Group-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 <h4> Tools </h4>
 
