@@ -226,3 +226,11 @@
   <a href="www.linkedin.com/in/onu-oh-yusung-0b5b69355">LinkedIn Profile</a>
 </p>
 -->
+<br><br><br>
+<div align="center">
+<h2>📊 GitHub Activity 📊</h2>
+<!-- ### 📊 GitHub Stats -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Emma10003&show_icons=true&bg_color=ffffff&title_color=bf6f69&icon_color=bf6f69&text_color=bf6f69" height="160"/>
+<!-- ### 💻 Most Used Language -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Emma10003&layout=compact&bg_color=ffffff&title_color=bf6f69&text_color=bf6f69" height="160"/>
+</div>
