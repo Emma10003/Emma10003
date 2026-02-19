@@ -66,6 +66,7 @@
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 <h4> Tools </h4>
 
@@ -144,6 +145,7 @@
       <td>프론트엔드<br>Front-end</td>
       <td>
         🔗 <a href="https://github.com/Emma10003/research-platform-website">Github</a>
+        🔗 <a href="https://research-platform-website.vercel.app/">Website</a>
       </td>
     </tr>
   </tbody>
