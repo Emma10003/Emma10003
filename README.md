@@ -19,7 +19,7 @@
 <h4> Front-end </h4>
   
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -170,6 +170,38 @@
   </tbody>
 </table>
 
+<h2>🪪 Certificates</h2>
+<table>
+  <thead>
+    <tr>
+      <th>취득일</th>
+      <th>자격증명</th>
+      <th>발행처</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2026.02</td>
+      <td>정보처리기사 (필기 합격)</td>
+      <td>한국산업인력공단</td>
+    </tr>
+    <tr>
+      <td>2025.12</td>
+      <td>SQLD</td>
+      <td>한국데이터산업진흥원</td>
+    </tr>
+    <tr>
+      <td>2025.06</td>
+      <td>ADsP</td>
+      <td>한국데이터산업진흥원</td>
+    </tr>
+    <tr>
+      <td>2025.06</td>
+      <td>컴퓨터활용능력(2급)</td>
+      <td>대한상공회의소</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2>✉️ Contact Me</h2>
 
