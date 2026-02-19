@@ -217,8 +217,10 @@
   <a href="mailto:5yusung7879@gmail.com">5yusung7879@gmail.com</a>
 </p>
 
+<!--
 <p>
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" align="absmiddle" />
   &nbsp;
   <a href="www.linkedin.com/in/onu-oh-yusung-0b5b69355">LinkedIn Profile</a>
 </p>
+-->
