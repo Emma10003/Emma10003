@@ -97,7 +97,8 @@
       <td>팀 <br>프로젝트</td>
       <td>풀스택<br>Full-stack</td>
       <td>
-        🔗 <a href="https://github.com/full-stack-bootcamp-final-team-project">Github</a>
+        🔗 <a href="https://github.com/full-stack-bootcamp-final-team-project">Github</a><br />
+        🔗 <a href="https://onesto.re/0001004308">App Download</a>
       </td>
     </tr>
     <tr>
